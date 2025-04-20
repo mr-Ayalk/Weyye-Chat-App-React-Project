@@ -1,4 +1,6 @@
 # Full Stack Chat Application
+![photo_2025-04-19_19-58-01](https://github.com/user-attachments/assets/56d31367-b60b-4512-b07a-863f597b7994)
+
 
 This is a full stack chat application project that utilizes a variety of modern technologies to create a seamless messaging experience. 
 
