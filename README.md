@@ -7,6 +7,7 @@
 
 ![image](https://github.com/user-attachments/assets/77cb00a5-b4b2-435a-81b2-6c1ef0985c51)
 
+![image](https://github.com/user-attachments/assets/f76b6f1c-e23b-4f77-85a8-c9a2823770f0)
 
 This is a full stack chat application project that utilizes a variety of modern technologies to create a seamless messaging experience. 
 
