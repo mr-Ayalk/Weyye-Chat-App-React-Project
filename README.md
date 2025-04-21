@@ -11,7 +11,7 @@
 
 This is a full stack chat application project that utilizes a variety of modern technologies to create a seamless messaging experience. 
 
-## Technologies Used
+ Technologies Used
 
 ### Frontend
 - **React**: The main framework for building the user interface.
